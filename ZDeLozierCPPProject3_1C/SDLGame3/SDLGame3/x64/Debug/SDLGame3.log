@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\zldel\Documents\_Adv. Computer Programming\Adv. C++\ZDeLozierCPPProject3_1C\SDLGame3\SDLGame3\main.cpp(184,51): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\zldel\Documents\_Adv. Computer Programming\Adv. C++\ZDeLozierCPPProject3_1C\SDLGame3\SDLGame3\main.cpp(203,51): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\zldel\Documents\_Adv. Computer Programming\Adv. C++\ZDeLozierCPPProject3_1C\SDLGame3\SDLGame3\main.cpp(221,51): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\zldel\Documents\_Adv. Computer Programming\Adv. C++\ZDeLozierCPPProject3_1C\SDLGame3\SDLGame3\main.cpp(238,51): warning C4834: discarding return value of function with 'nodiscard' attribute
+  SDLGame3.vcxproj -> C:\Users\zldel\Documents\_Adv. Computer Programming\Adv. C++\ZDeLozierCPPProject3_1C\SDLGame3\x64\Debug\SDLGame3.exe

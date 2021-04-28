@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZDeLozierACP2_2", "ZDeLozierACP2_2\ZDeLozierACP2_2.csproj", "{D4A10457-523F-4992-8049-A65C00420530}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZDeLozierACP2_3", "ZDeLozierACP2_3\ZDeLozierACP2_3.vdproj", "{74F0968C-3077-4101-ABD7-A9625AF33029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A10457-523F-4992-8049-A65C00420530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A10457-523F-4992-8049-A65C00420530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A10457-523F-4992-8049-A65C00420530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A10457-523F-4992-8049-A65C00420530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F0968C-3077-4101-ABD7-A9625AF33029}.Debug|Any CPU.ActiveCfg = Debug
+		{74F0968C-3077-4101-ABD7-A9625AF33029}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C474D38D-6DDA-480A-B0B0-BFDEED54F34A}
+	EndGlobalSection
+EndGlobal
